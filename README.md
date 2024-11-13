@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Darshan Tawte</h1>
 
-<br>I'm a curious computer engineer, fascinated by the puzzles in the world around me. With a quest for ever-increasing knowledge and insatiable curiosity, I strive for challenging opportunities to exercise and build upon my repertoire of computation, development, and collaboration skills, and aspire to combat problems which result in positive impacts on the community.I strive to build end to end fullstack AI web apps.<br><br>🔭 I’m currently working on Exploring NLP Pretrained Models and finetunning<br><br>🌱 I’m currently learning PyTorch and MLOps<br><br>👯 I’m looking to collaborate on ML,MERN stack projects
+<br>I'm a curious computer engineer, fascinated by the puzzles in the world around me. With a quest for ever-increasing knowledge and insatiable curiosity, I strive for challenging opportunities to exercise and build upon my repertoire of computation, development, and collaboration skills, and aspire to combat problems which result in positive impacts on the community.I strive to build end to end fullstack AI web apps.<br><br>🔭 I’m currently working on Exploring NLP Pretrained Models and finetunning<br><br>🌱 I’m currently learning PyTorch and MLOps<br><br>👯 I’m looking to collaborate on ML , fullstack stack projects
 
 
 ## 🌐 Socials:
